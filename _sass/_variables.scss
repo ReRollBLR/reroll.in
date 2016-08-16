@@ -53,14 +53,21 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+$main-color                 : #c72d07;
+$dark-main-color            : mix(#000, $main-color, 40%);
+$darker-main-color          : mix(#000, $main-color, 60%);
+$light-main-color           : mix(#fff, $main-color, 50%);
+$lighter-main-color         : mix(#fff, $main-color, 90%);
+
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : $darker-gray;
+$border-color               : $lighter-main-color;
 
-$primary-color              : #7a8288;
+$primary-color              : $main-color;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
