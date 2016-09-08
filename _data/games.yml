@@ -1,0 +1,31 @@
+---
+events:
+  "humming-tree-2":
+    - cash_n_guns
+    - love_letter
+    - spaceteam
+    - machi_koro
+    - citadels
+    - jaipur
+    - codenames
+    - saboteur
+    - avalon
+    - greed
+    - age_of_war
+    - dixit
+    - takenoko
+# https://www.boardgamegeek.com/xmlapi2/thing?id=184491&type=boardgame
+board_game_geek:
+  spaceteam: 184491
+  love_letter: 129622
+  cash_n_guns: 155362
+  machi_koro: 143884
+  citadels: 478
+  jaipur: 54043
+  codenames: 178900
+  saboteur: 9220
+  avalon: 128882
+  greed: 151247
+  age_of_war: 155695
+  dixit: 39856
+  takenoko: 70919

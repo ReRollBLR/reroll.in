@@ -22,3 +22,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 group :jekyll_plugins do
   # gem "jekyll-archives"
 end
+
+gem 'open-uri-cached', "0.0.5"
+gem 'xml-to-json'
+gem 'xml-to-hash'
+gem "bgg"
