@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="151247">
+         <thumbnail>//cf.geekdo-images.com/images/pic1949247_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1949247.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Greed" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Szmal" />
+			
+						               													<description>In the card game Greed, crime lords (the players) try to earn more money than anyone else through clever use of their cards.&amp;#10;&amp;#10;At the start of the game, each player receives a random hand of twelve cards from a deck of 80. Players draft one card, pass the remaining cards left, draft a second card, pass again, draft a third card, pass again, then the game changes; players simultaneously choose and reveal a card, carrying out its effects, then they draft another card, pass the remaining cards, play again, and so on until ten &amp;quot;playing&amp;quot; rounds have passed, at which point the game ends and players tally their holdings.&amp;#10;&amp;#10;The card types are thugs, holdings and actions. Thugs and holdings might have a cost to be played (perhaps cash paid to the bank or the discarding of a holding) or a condition that you must meet (having two thugs, for example, or a collection of symbols on cards in your possession) in addition to an effect, which is unique to each card. (Each action has a unique effect as well.) When you play a holding with one or more symbols, you place a token on that card for each symbol on it and an additional token for each symbol of that type already in your possession. These tokens are worth $10k each at the end of the game, and you add this value to whatever cash you've collected through your card plays.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="33">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll> 
+			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24255" value="Queen Yellow Wave Box Series" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Tableau Building" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12512" value="Patrick Rennwanz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="REBEL.pl" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="143884">
+         <thumbnail>//cf.geekdo-images.com/images/pic1992476_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1992476.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Machi Koro" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ciudad Machi Koro" />
+			    				
+				<name type="alternate" sortindex="1" value="Machi Koro: Fatevi un Giro in Città!" />
+			    				
+				<name type="alternate" sortindex="1" value="Metropolia" />
+			    				
+				<name type="alternate" sortindex="1" value="Minivilles" />
+			    				
+				<name type="alternate" sortindex="1" value="Minivilles 미니빌" />
+			    				
+				<name type="alternate" sortindex="1" value="Мачи Коро" />
+			    				
+				<name type="alternate" sortindex="1" value="街コロ" />
+			
+						               													<description>Welcome to the city of Machi Koro. You've just been elected Mayor. Congrats! Unfortunately the citizens have some pretty big demands: jobs, a theme park, a couple of cheese factories and maybe even a radio tower. A tough proposition since the city currently consists of a wheat field, a bakery and a single die.&amp;#10;&amp;#10;Armed only with your trusty die and a dream, you must grow Machi Koro into the largest city in the region. You will need to collect income from developments, build public works, and steal from your neighbors' coffers. Just make sure they aren't doing the same to you!&amp;#10;&amp;#10;Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on his own terms in order to complete all of the landmarks under construction faster than his rivals. On his turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, he gets the effect of that building; in some cases opponents will also benefit from your die (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of his city on future turns. The first player to construct all of his landmarks wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="167">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="88" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="83" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="57" />
+					<result value="Recommended" numvotes="81" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="93" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+	</poll> 
+			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="45">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="10" />
+					<result value="8" numvotes="26" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="53">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="14" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="34" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9470" value="Asian Theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207143" value="Machi Koro: Dice Tower Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171044" value="Machi Koro: Fabrique de jouets du Père Noël" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158624" value="Machi Koro: Gaming Mega Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181336" value="Machi Koro: Großstadt-Erweiterung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="143789" value="Machi Koro: Harbor Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160154" value="Machi Koro: Millionaire's Row" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="185279" value="Minivilles: 5-6 Extension" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186885" value="Stadt Land Spielt Limitierte Sonderdrucke 2015" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="175239" value="Machi Koro: Deluxe Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="185817" value="Metropolia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="205494" value="Machi Koro: Bright Lights, Big City" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="199799" value="Ο Πιο Καλός Περιπτεράς" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68814" value="Masao Suganuma" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69648" value="Noboru Hotta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37676" value="Ian Parovel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12836" value="Mirko Suzuki" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="Foxgames (Poland)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25355" value="Grounding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26024" value="IDW Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5885" value="Japon Brand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12446" value="Moonster Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

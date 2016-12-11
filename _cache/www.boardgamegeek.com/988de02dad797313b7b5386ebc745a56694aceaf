@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="155362">
+         <thumbnail>//cf.geekdo-images.com/images/pic2907864_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2907864.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ca$h &#039;n Guns (Second Edition)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kasa i Spluwy" />
+			
+						               													<description>In an abandoned warehouse a gangster band is splitting its loot, but they can't agree on the split! It's time to let the guns talk and soon everyone is aiming at everyone. The richest surviving gangster wins the game!&amp;#10;&amp;#10;Ca$h 'n Guns helps you relive the best scenes of your favorite gangster movies. The goal is to have more money than anyone else after eight rounds while still being alive.&amp;#10;&amp;#10;Each round, one player is the Boss, and he controls the pace of play. First, loot cards are revealed on the table to show what's up for grabs. Next, players load their guns by secretly selecting either a &amp;quot;Bang!&amp;quot; or a &amp;quot;Click! Click!&amp;quot; card from their hand. The Boss counts to three, and on &amp;quot;Three&amp;quot; each player points his foam gun at someone else; due to his status, the Boss can tell one player who's pointing a gun at him that he needs to point it in another direction. After a pause to observe threats and measure the seriousness in an opponent's eyes, the Boss counts to three again and anyone who doesn't want to risk getting shot can chicken out and remove themselves from the round.&amp;#10;&amp;#10;Everyone who's pointing a gun at someone still in the round now reveals their card, and anyone who's the target of a &amp;quot;Bang!&amp;quot; takes a wound marker and gets none of the available loot. Starting with the Boss, everyone still in the round takes one loot card at a time from the table &amp;mdash; money, diamonds, paintings, the position of Boss, medical care (to remove a wound), or a new bullet (to add a &amp;quot;Bang!&amp;quot; card to your hand) &amp;mdash; until everything has been claimed.&amp;#10;&amp;#10;After eight rounds, the game ends. Whoever has the most diamonds receives a big bonus, and paintings score based on the number of them that you've collected. Whoever has the most valuable stash wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="54">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 
+			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10552" value="Ca$h 'n Gun$" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="33734" value="Ca$h 'n Gun$: Uzi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="192763" value="Ca$h 'n Guns (Second Edition): Full of Surprises" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181228" value="Ca$h 'n Guns (Second Edition): More Cash 'n More Guns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199240" value="Ca$h 'n Guns (Second Edition): Team Spirit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206484" value="Ca$h 'n Guns (Second Edition): The Banana" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166330" value="Ca$h 'n Guns (Second Edition): The Blackmailer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174221" value="Ca$h 'n Guns (Second Edition): The Cop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188650" value="Ca$h 'n Guns (Second Edition): The Fast Gun" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="19237" value="Ca$h 'n Gun$" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4337" value="Ludovic Maublanc" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6815" value="John Kovalic" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="REBEL.pl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

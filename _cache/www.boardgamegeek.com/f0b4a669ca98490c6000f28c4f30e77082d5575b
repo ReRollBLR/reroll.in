@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="128882">
+         <thumbnail>//cf.geekdo-images.com/images/pic1398895_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1398895.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Resistance: Avalon" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Avalon" />
+			    				
+				<name type="alternate" sortindex="1" value="Avalon: Rycerze Króla Artura" />
+			    				
+				<name type="alternate" sortindex="4" value="La Resistencia: Ávalon" />
+			    				
+				<name type="alternate" sortindex="5" value="Der Widerstand: Avalon" />
+			    				
+				<name type="alternate" sortindex="1" value="ΑΒΑΛΟΝ" />
+			    				
+				<name type="alternate" sortindex="1" value="レジスタンス: アヴァロン" />
+			    				
+				<name type="alternate" sortindex="1" value="抵抗組織：阿瓦隆" />
+			
+						               													<description>The Resistance: Avalon pits the forces of Good and Evil in a battle to control the future of civilization. Arthur represents the future of Britain, a promise of prosperity and honor, yet hidden among his brave warriors are Mordred's unscrupulous minions. These forces of evil are few in number but have knowledge of each other and remain hidden from all but one of Arthur's servants. Merlin alone knows the agents of evil, but he must speak of this only in riddles. If his true identity is discovered, all will be lost.&amp;#10;&amp;#10;The Resistance: Avalon is a standalone game, and while The Resistance is not required to play, the games are compatible and can be combined.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="5" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="205">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="118" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="118" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="118" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="117" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="94" />
+					<result value="Not Recommended" numvotes="59" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="117" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="127" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="117" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="98" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="54" />
+					<result value="Recommended" numvotes="89" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="68" />
+				</results>					
+	</poll> 
+			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="45">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="18" />
+					<result value="14" numvotes="9" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="46">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="14" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="32" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Partnerships" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20304" value="Dystopian Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22839" value="The Legend of King Arthur and the Knights of the Round Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7958" value="Postcard Box Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2989" value="Werewolf / Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132195" value="The Resistance: Avalon Promos" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="162890" value="The Resistance: Hidden Agenda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="163322" value="The Resistance: Hidden Agenda &amp; Hostile Intent" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="41114" value="The Resistance" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11906" value="Don Eskridge" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49082" value="George Patsouras" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21002" value="Rafał Szyma" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10290" value="Indie Boards &amp; Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

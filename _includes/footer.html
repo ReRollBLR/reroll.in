@@ -1,25 +1,9 @@
-{% include base_path %}
-
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="https://telegram.me/reroll"><i class="fa fa-fw fa-paper-plane" aria-hidden="true"></i> @ReRoll</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Run by <a href="https://www.facebook.com/kaushik.narayan.39"><i class="fa fa-fw fa-facebook"></i> Kaushik</a>, <a href="https://twitter.com/karthikb351"><i class="fa fa-fw fa-twitter"></i>  @karthikb351</a> and <a href="https://twitter.com/mithunbalraj"><i class="fa fa-fw fa-twitter"></i>  @mithunbalraj</a>.
-</div>
+<footer class="footer">
+  <div class="container">
+    <p>Run by 
+      <a href="https://www.facebook.com/kaushik.narayan.39"><i class="fa fa-fw fa-facebook"></i> Kaushik</a>,
+      <a href="https://twitter.com/karthikb351"><i class="fa fa-fw fa-twitter"></i>  @karthikb351</a>
+      and <a href="https://twitter.com/mithunbalraj"><i class="fa fa-fw fa-twitter"></i>  @mithunbalraj</a>.
+    </p>
+  </div>
+</footer>

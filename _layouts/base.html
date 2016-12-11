@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+    {% include navbar.html %}
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                {{ content | markdownify }}
+            </div>
+        </div>   
+    </div>
+    <!-- /.container -->
+    {% include footer.html %}
+    {% include scripts.html %}
+</body>
+</html>

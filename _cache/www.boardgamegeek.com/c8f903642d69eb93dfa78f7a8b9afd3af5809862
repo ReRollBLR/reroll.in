@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="178900">
+         <thumbnail>//cf.geekdo-images.com/images/pic2582929_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2582929.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Codenames" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codi secret" />
+			    				
+				<name type="alternate" sortindex="1" value="Código secreto" />
+			    				
+				<name type="alternate" sortindex="1" value="Codinomes" />
+			    				
+				<name type="alternate" sortindex="1" value="Fedőnevek" />
+			    				
+				<name type="alternate" sortindex="1" value="Nome in Codice" />
+			    				
+				<name type="alternate" sortindex="1" value="Nume de Cod" />
+			    				
+				<name type="alternate" sortindex="1" value="Tajniacy" />
+			    				
+				<name type="alternate" sortindex="1" value="Κωδική Ονομασία" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодови имена" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодовые Имена" />
+			    				
+				<name type="alternate" sortindex="1" value="שם-קוד" />
+			    				
+				<name type="alternate" sortindex="1" value="コードネーム" />
+			    				
+				<name type="alternate" sortindex="1" value="行动代号" />
+			    				
+				<name type="alternate" sortindex="1" value="코드네임" />
+			
+						               													<description>Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.&amp;#10;&amp;#10;In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.&amp;#10;&amp;#10;Codenames: Win or lose, it's fun to figure out the clues.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="327">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="203" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="164" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="165" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="112" />
+					<result value="Recommended" numvotes="148" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="169" />
+					<result value="Not Recommended" numvotes="59" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="228" />
+					<result value="Recommended" numvotes="59" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="155" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="158" />
+					<result value="Recommended" numvotes="97" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="107" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+	</poll> 
+			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="57">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="16" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="91">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="21" />
+					<result level="5" value="Unplayable in another language" numvotes="61" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Partnerships" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Press Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Codenames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="205158" value="Codenames: Deep Undercover" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="198773" value="Codenames: Pictures" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="205158" value="Codenames: Deep Undercover" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="198773" value="Codenames: Pictures" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Bergsala Enigma" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22763" value="Golden Egg Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="REBEL.pl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>
