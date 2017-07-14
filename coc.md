@@ -20,18 +20,17 @@ The following behaviors are expected and requested of all community members:
 * Refrain from demeaning, discriminatory, or harassing behavior and speech.
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-* Respect that people have differences of opinion and that every individual has a different skill level, personal preferences and interests.
-* Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
-* Community members are also expected to respect the property of other members including their board games, tokens, cards and gaming accessories.
+* Respect that people have differences of opinion and that every individual has a different skill level, personal preferences, and interests.
+* Community members are also expected to respect the property of other members including their board games, tokens, cards, and gaming accessories.
 
 ## Unacceptable behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
-* On WhatsApp, Telegram, Reddit, Facebook, or any other online group with ReRoll, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
-* It is unacceptable to insult, demean or harass anyone. That is not welcome behaviour. We interpret the term "harassment" as including the definition in the <a href="http://citizencodeofconduct.org/">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition.
+* On WhatsApp, Telegram, Reddit, Facebook, or any other online group with ReRoll, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe, and welcoming environment for all.
+* It is unacceptable to insult, demean, or harass anyone. That is not welcome behaviour. We interpret the term "harassment" as including the definition in the <a href="http://citizencodeofconduct.org/">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the organizers immediately. Whether you're a regular member or a newcomer, we care about making this community a safe place for you and we've got your back.
-* Violence, threats of violence or violent language directed against another person.
+* Violence, threats of violence, or violent language directed against another person.
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
 * Posting or displaying sexually explicit or violent material.
@@ -39,10 +38,10 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 * Inappropriate photography or recording.
 * Inappropriate physical contact. You should have someone’s consent before touching them and stop after a request to stop.
-* Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-* Deliberate intimidation, stalking or following (online or in person).
-* Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
-* Advocating for, or encouraging, any of the above behavior.
+* Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcome sexual advances.
+* Deliberate intimidation, stalking, or following (online or in person).
+* Likewise any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome.
+* Advocating for or encouraging any of the above behavior.
 
 ## Consequences of Unacceptable Behavior
 
