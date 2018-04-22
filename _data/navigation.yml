@@ -1,5 +1,5 @@
 main:
+  - title: "International Tabletop Day 2018!"
+    url: '/tabletopday'
   - title: "Code of Conduct"
     url: '/code-of-conduct'
-  - title: "Our blog"
-    url: 'https://blog.reroll.in/'
