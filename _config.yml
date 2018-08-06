@@ -8,6 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  collections:
+    title: Collections
+    output: true
+    permalink: /user/:name
 locale: en
 title_separator: "-"
 name: ReRoll - A board games collective
