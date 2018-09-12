@@ -81,4 +81,4 @@ The enforcement policies listed above apply to all ReRoll channels, both online 
 *Adapted from the [Oklahoma Board Game Community's Code of Conduct](http://okboardgame.com/code-of-conduct/) as well as [Rust's Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).*
 *This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
 
-You can suggest edits to [this document on GitHub](https://github.com/karthikb351/reroll.in/blob/gh-pages/coc.md).
+You can suggest edits to [this document on GitHub](https://github.com/karthikb351/reroll.in/blob/gh-pages/_pages/coc.md).
