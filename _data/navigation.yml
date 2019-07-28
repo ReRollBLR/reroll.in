@@ -1,7 +1,9 @@
 main:
   - title: "Tabletop Thursdays"
-    url: 'https://insider.in/tabletop-thursday-with-reroll-board-games-2019/event'
+    url: "https://insider.in/tabletop-thursday-with-reroll-board-games-2019/event"
   - title: "Heavy Cardboard Wednesday"
-    url: 'https://insider.in/heavy-cardboard-wednesday-with-reroll-board-games-2019/event'
+    url: "https://insider.in/heavy-cardboard-wednesday-with-reroll-board-games-2019/event"
+  - title: "Sunday Shuffle"
+    url: "https://insider.in/sunday-shuffle-with-reroll-board-games-jul28-2019/event"
   - title: "Code of Conduct"
-    url: '/code-of-conduct'
+    url: "/code-of-conduct"
