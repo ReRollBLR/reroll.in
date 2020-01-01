@@ -55,6 +55,10 @@ layout: default
       {% include post_pagination.html %}
     </div>
 
+    {% if page.topicId %}
+      {% include discourse.html %}
+    {% endif %}
+
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
