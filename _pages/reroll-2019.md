@@ -5,9 +5,7 @@ layout: single
 topicId: 447
 ---
 
-2019 was ReRoll's most successful year yet. Here we some of our insights on the state of board gaming in Bangalore (and in India) based on our experience.
-
-To recap, here are some of the big things we did this year
+2019 was ReRoll's most successful year yet. Here's some of the big things we did this year
 
 * Did our largest event ever with 194 attendees - International Tabletop Day 2019
 * Added Ishira and Navin to our organizing team
@@ -15,15 +13,18 @@ To recap, here are some of the big things we did this year
 * Launched the ReRoll Forums
 
 
-In July this year we moved entirely to online ticketing for all of our events. While initially this was met with some resistance, eventually everyone seems to have gotten onboard with the idea. This has made our life _much_ easier as accounting, handing out coupons, etc. have gotten a lot easier.
+In July 2019 we moved entirely to online ticketing for all of our events. While initially this was met with some resistance, everyone eventually seems to have gotten onboard with the idea. This has substantially eased our accounting and logistics hassles.
 
-This is something we intend to continue to do in 2020.
-
-One of the upsides of having all our ticketing and check-ins digital is that we now have a much better understanding of our audience profile. While we don't have all of 2019's data digitally, we've been managed to put together some data that we thought is useful to share with everyone.
+One of the upsides of having all our ticketing and check-ins digital is that we now have a much better understanding of our audience profile. While we don't have all of 2019's data digitally, we've been managed to put together some things that we thought is useful to share with the community.
 
 ## How many people attended our events
 <iframe width="697" height="468" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-iHivuabYbjanTJw56-P-gcEPRFSqpBEawOxehh0N-rxEoRLrNm0pfvqSEceagNSokUs8Ay5sbq8f/pubchart?oid=2107508065&amp;format=interactive"></iframe>
 
+## How much in advance people buy tickets
+
+<iframe width="697" height="468" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-iHivuabYbjanTJw56-P-gcEPRFSqpBEawOxehh0N-rxEoRLrNm0pfvqSEceagNSokUs8Ay5sbq8f/pubchart?oid=1485080994&amp;format=interactive"></iframe>
+
+<iframe width="697" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-iHivuabYbjanTJw56-P-gcEPRFSqpBEawOxehh0N-rxEoRLrNm0pfvqSEceagNSokUs8Ay5sbq8f/pubchart?oid=559255711&amp;format=interactive"></iframe>
 
 ## When people show up at our weekly meetups
 
