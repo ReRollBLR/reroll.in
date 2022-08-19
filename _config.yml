@@ -34,7 +34,7 @@ bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
 twitter:
-  username: ReRoll_BLR
+  username: ReRollBLR
 facebook:
   username: rerollblr
   app_id:
@@ -78,36 +78,36 @@ author:
   xing:
   youtube:
 include:
-- ".htaccess"
-- _pages
+  - ".htaccess"
+  - _pages
 exclude:
-- "*.sublime-project"
-- "*.sublime-workspace"
-- ".asset-cache"
-- ".bundle"
-- ".jekyll-assets-cache"
-- ".sass-cache"
-- assets/js/plugins
-- assets/js/_main.js
-- assets/js/vendor
-- Capfile
-- CHANGELOG
-- config
-- Gemfile
-- Gruntfile.js
-- gulpfile.js
-- LICENSE
-- log
-- node_modules
-- package.json
-- Rakefile
-- README
-- tmp
-- scripts
-- vendor
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - ".asset-cache"
+  - ".bundle"
+  - ".jekyll-assets-cache"
+  - ".sass-cache"
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - scripts
+  - vendor
 keep_files:
-- ".git"
-- ".svn"
+  - ".git"
+  - ".svn"
 encoding: utf-8
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
@@ -131,17 +131,17 @@ permalink: "/:categories/:title/"
 paginate: 5
 paginate_path: "/page:num/"
 plugins:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-- jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 whitelist:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-- jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 category_archive:
   type: liquid
   path: "/categories/"
