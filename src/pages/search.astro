@@ -1,0 +1,58 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Buy Boardgames"
+  description="Search across multiple e-commerce stores in India selling board games. A helpful cross-site search engine for board game shoppers."
+>
+  <section class="mb-12">
+    <div class="flex items-center gap-4 mb-8">
+      <h2 class="font-serif-title text-xl md:text-2xl font-bold text-brand-red tracking-wide whitespace-nowrap uppercase">
+        Buy Boardgames
+      </h2>
+      <div class="h-[1px] w-full bg-brand-red/10"></div>
+    </div>
+
+    <div class="gcse-search-wrapper">
+      <script async src="https://cse.google.com/cse.js?cx=91f0de5be36954907"></script>
+      <div class="gcse-search"></div>
+    </div>
+
+    <div class="mt-6 max-w-2xl mx-auto text-center border border-dashed border-brand-red/20 bg-brand-red-pale/40 p-4 rounded-xs">
+      <p class="font-serif-body text-sm italic text-text-ink-muted leading-relaxed">
+        This searches across multiple e-commerce stores in India selling board games.
+        A list is available on{' '}
+        <a
+          href="https://forum.reroll.in/t/where-to-buy-boardgames-in-india/1130"
+          class="text-brand-red hover:text-brand-red-dark underline underline-offset-2 transition-colors"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          our Forum
+        </a>.
+        We don't track or make money from these searches — this is just a helpful
+        search engine to help you search across relevant websites simultaneously.
+      </p>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .gcse-search-wrapper {
+    /* Let Google's widget fill available width */
+    width: 100%;
+  }
+
+  /* Subtle overrides to make the Google CSE input blend with the site aesthetic */
+  :global(.gsc-input-box) {
+    border-color: color-mix(in srgb, var(--color-brand-red) 20%, transparent) !important;
+    border-radius: 2px !important;
+  }
+
+  :global(.gsc-search-button-v2) {
+    background-color: var(--color-brand-red) !important;
+    border-color: var(--color-brand-red) !important;
+    border-radius: 2px !important;
+  }
+</style>

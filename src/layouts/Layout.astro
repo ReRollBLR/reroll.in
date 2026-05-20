@@ -1,0 +1,137 @@
+---
+import "../styles/global.css";
+import AnnouncementBanner from "../components/AnnouncementBanner.astro";
+import { announcement } from "../config/announcement";
+
+interface Props {
+  title: string;
+  description?: string;
+  tagline?: string;
+}
+
+const {
+  title,
+  description = "A Bangalore-based board games collective",
+  tagline,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- SEO Meta Tags -->
+    <title>{title} | ReRoll Board Games</title>
+    <meta name="description" content={description} />
+    <meta name="author" content="ReRoll Board Games" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={`${title} | ReRoll Board Games`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content="https://reroll.in" />
+    <meta property="og:image" content="/images/logo-header.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content={`${title} | ReRoll Board Games`} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content="/images/logo-header.png" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;800&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="min-h-screen flex flex-col bg-[#1A120B]">
+    <!-- Site-wide Announcement Banner -->
+    {announcement.enabled && (
+      <AnnouncementBanner
+        text={announcement.text}
+        ctaText={announcement.ctaText}
+        ctaHref={announcement.ctaHref}
+      />
+    )}
+
+    <!-- Padded page content -->
+    <div class="flex flex-col items-center flex-1 p-4 md:p-8">
+    <!-- The Tactile Game Tabletop Frame -->
+    <div
+      id="main-board-container"
+      class="w-full max-w-5xl bg-parchment-texture border-retro-double text-text-ink p-6 md:p-12 relative card-lift-shadow rounded-sm my-4"
+    >
+      <!-- Vintage Corner Ornaments -->
+      <div class="ornament-corner ornament-tl"></div>
+      <div class="ornament-corner ornament-tr"></div>
+      <div class="ornament-corner ornament-bl"></div>
+      <div class="ornament-corner ornament-br"></div>
+
+      <!-- Main Layout Body -->
+      <header
+        class="flex flex-col items-center justify-center mb-8 md:mb-12 border-b border-brand-red/20 pb-8 text-center"
+      >
+        <a href="/" class="group flex flex-col items-center">
+          <img
+            src="/images/logo-header.png"
+            alt="ReRoll Board Games Logo"
+            class="h-24 md:h-32 object-contain transform group-hover:scale-[1.03] transition-transform duration-300"
+            id="site-logo"
+          />
+          <h1 class="sr-only">ReRoll Board Games</h1>
+        </a>
+        {
+          tagline && (
+            <p class="font-serif-body text-sm md:text-base italic text-text-ink-muted mt-4 max-w-xl leading-relaxed">
+              {tagline}
+            </p>
+          )
+        }
+      </header>
+
+      <main>
+        <slot />
+      </main>
+
+      <!-- Vintage footer separator -->
+      <footer
+        class="mt-12 md:mt-16 pt-8 border-t border-brand-red/20 text-center"
+      >
+        <div class="flex flex-col items-center gap-3">
+          <div class="flex items-center justify-center gap-4">
+            <a
+              href="/code-of-conduct"
+              class="font-sans-ui text-xs tracking-wider text-brand-red hover:text-brand-red-dark uppercase font-bold transition-colors"
+            >
+              Code of Conduct
+            </a>
+            <span class="text-brand-red/30">•</span>
+            <a
+              href="/search"
+              class="font-sans-ui text-xs tracking-wider text-brand-red hover:text-brand-red-dark uppercase font-bold transition-colors"
+            >
+              Where to Buy Games in India
+            </a>
+          </div>
+          <p
+            class="font-sans-ui text-xs tracking-wider text-text-ink-muted uppercase"
+          >
+            © {new Date().getFullYear()} ReRoll Board Games
+          </p>
+        </div>
+      </footer>
+    </div>
+    </div>
+  </body>
+</html>

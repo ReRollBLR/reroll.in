@@ -9,3 +9,7 @@ codekit-config.json
 node_modules
 npm-debug.log*
 vendor
+.astro/
+dist/
+.env*
+.DS_Store

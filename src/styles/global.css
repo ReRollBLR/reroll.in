@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #c72d07;
+  --color-brand-red-dark: #8c1e04;
+  --color-brand-red-light: #e54b25;
+  --color-brand-red-pale: #fdf2f0;
+  
+  --font-serif-title: "Cinzel", serif;
+  --font-serif-body: "EB Garamond", serif;
+  --font-sans-ui: "Plus Jakarta Sans", sans-serif;
+  
+  --color-bg-paper: #FAF6F0;
+  --color-bg-paper-dark: #FAF8F5;
+  --color-text-ink: #1E1610;
+  --color-text-ink-muted: #5C5249;
+}
+
+/* Base styling overrides */
+html, body {
+  background-color: #1A120B; /* Deep wood/charcoal viewport backdrop */
+  color: var(--color-text-ink);
+  font-family: var(--font-serif-body);
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Tabletop Aesthetics utilities */
+
+/* Tactile double-border inspired by vintage board games and playing cards */
+.border-retro-double {
+  border: 4px double var(--color-brand-red);
+}
+
+/* A very subtle cardboard/linen grain texture using gradients */
+.bg-parchment-texture {
+  background-color: #FAF6F0;
+  background-image: 
+    radial-gradient(rgba(199, 45, 7, 0.02) 1px, transparent 1px),
+    radial-gradient(rgba(30, 22, 16, 0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+/* Rulebook drop caps */
+.rulebook-dropcap::first-letter {
+  float: left;
+  font-family: var(--font-serif-title);
+  font-size: 3.5rem;
+  line-height: 0.85;
+  padding-top: 4px;
+  padding-right: 8px;
+  color: var(--color-brand-red);
+  font-weight: bold;
+}
+
+/* Tactile shadow that behaves like a physical card lifted off a surface */
+.card-lift-shadow {
+  box-shadow: 2px 2px 0px rgba(30, 22, 16, 0.15);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.card-lift-shadow:hover {
+  transform: translateY(-4px) translateZ(0);
+  box-shadow: 6px 8px 0px rgba(199, 45, 7, 0.15);
+}
+
+/* Decorative corner ornaments */
+.ornament-corner {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--color-brand-red);
+}
+.ornament-tl { top: 8px; left: 8px; border-right: none; border-bottom: none; }
+.ornament-tr { top: 8px; right: 8px; border-left: none; border-bottom: none; }
+.ornament-bl { bottom: 8px; left: 8px; border-right: none; border-top: none; }
+.ornament-br { bottom: 8px; right: 8px; border-left: none; border-top: none; }
