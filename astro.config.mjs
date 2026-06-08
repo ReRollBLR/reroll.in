@@ -10,6 +10,7 @@ export default defineConfig({
   redirects: {
     '/chat': 'https://discord.gg/E9hkudX',
     '/whatsapp': 'https://chat.whatsapp.com/JoR76GJQyRsG109JPTKqDq',
+    '/whatsapp-mtg': 'https://chat.whatsapp.com/HAUqrDSxejpLUa7BwHhKO9',
     '/bgg': 'https://www.boardgamegeek.com/guild/2791',
     '/wiki': 'https://reroll-games.getoutline.com/',
     '/market': 'https://t.me/joinchat/JeVT-kohl-9tb9WaDi9Xsg',
