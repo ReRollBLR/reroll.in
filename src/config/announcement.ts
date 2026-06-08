@@ -5,7 +5,7 @@
  * The banner is also dismissible per-session by the visitor.
  */
 export const announcement = {
-  enabled: true,
+  enabled: false,
   text: "International Tabletop Day is coming up on June 6th and 7th!",
   ctaText: "View Schedule",
   ctaHref:
